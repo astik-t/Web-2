@@ -13,13 +13,6 @@ export const siteConfig = {
   
   skills: ["Python", "SQL", "DBMS"],
 
-  projects: [
-    {
-      name: "Coming soon",
-      description: "Projects from my coursework and personal explorations will be added here as I continue learning.",
-    }
-  ],
-
   education: [
     {
       school: "Scholars Academy",
